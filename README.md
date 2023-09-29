@@ -6,11 +6,7 @@ An interactive and responsive e-commerce website built using HTML5, CSS3, and Ja
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
